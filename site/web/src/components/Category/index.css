@@ -1,0 +1,17 @@
+.cs[data-disabled],.cn[data-disabled],.cw[data-disabled]{opacity:0.4}
+.cs[data-disabled]:hover,.cn[data-disabled]:hover,.cw[data-disabled]:hover{opacity:0.6}
+.cs:not([data-disabled]):hover,.cn:not([data-disabled]):hover,.cw:not([data-disabled]):hover{opacity:0.8}
+.cs{user-select:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;display:inline-block;text-align:center;vertical-align:middle;white-space:nowrap;height:20px;line-height:20px;font-size:9pt;border-radius:0.1875rem;color:#f1f1f1;box-shadow:0 1px 3px rgba(0,0,0,.3);text-shadow:2px 2px 3px rgba(0,0,0,.3);width:98px;letter-spacing:1px;font-weight:bold;cursor:pointer}
+.cn{user-select:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;display:inline-block;text-align:center;vertical-align:middle;white-space:nowrap;height:35px;line-height:35px;font-size:9pt;border-radius:0.1875rem;color:#f1f1f1;box-shadow:0 1px 3px rgba(0,0,0,.3);text-shadow:2px 2px 3px rgba(0,0,0,.3);width:108px;letter-spacing:1px;font-weight:bold;cursor:pointer}
+.cw{user-select:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;display:inline-block;text-align:center;vertical-align:middle;white-space:nowrap;height:35px;line-height:35px;font-size:9pt;border-radius:0.1875rem;color:#f1f1f1;box-shadow:0 1px 3px rgba(0,0,0,.3);text-shadow:2px 2px 3px rgba(0,0,0,.3);width:200px;letter-spacing:1px;font-weight:bold;cursor:pointer}
+.ct0{background:#000000}
+.ct1{background:radial-gradient(#707070, #9e9e9e);border:1px solid #707070} /* misc */
+.ct2{background:radial-gradient(#fc4e4e, #f26f5f);border:1px solid #fc4e4e} /* doujinshi */
+.ct3{background:radial-gradient(#e78c1a, #fcb417);border:1px solid #e78c1a} /* manga */
+.ct4{background:radial-gradient(#c7bf07, #dde500);border:1px solid #c7bf07} /* artistcg */
+.ct5{background:radial-gradient(#1a9317, #05bf0b);border:1px solid #1a9317} /* gamecg */
+.ct6{background:radial-gradient(#2756aa, #5f5fff);border:1px solid #2756aa} /* imageset*/
+.ct7{background:radial-gradient(#8800c3, #9755f5);border:1px solid #8800c3} /* cosplay */
+.ct8{background:radial-gradient(#b452a5, #fe93ff);border:1px solid #b452a5} /* asianporn */
+.ct9{background:radial-gradient(#0f9ebd, #08d7e2);border:1px solid #0f9ebd} /* nonh */
+.cta{background:radial-gradient(#5dc13b, #14e723);border:1px solid #5dc13b} /* western */
