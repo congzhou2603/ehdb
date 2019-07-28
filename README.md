@@ -9,7 +9,7 @@ Run `npm install && npm start` under `./site/web` folder, you'll get the website
 ![website](website.png)
 
 ## Thumb images
-I've download all the thumb images at `./images.7z` just in case `ehgt.org` will not able to visit
+You might want to download all the thumb images just in case `ehgt.org` will not able to visit
 
 ## Raw data
 Get `gdata.json` or `gdata.pickle` for raw data  
