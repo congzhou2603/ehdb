@@ -1,4 +1,5 @@
-E-Hentai gallery metadata
+E-Hentai gallery metadata  
+**Before you clone,Make sure you have git lfs installed**, This repo is about 2GB large
 # Usage
 **For some reason I CAN NOT provide a live version, please run it yourself**
 ## Website
