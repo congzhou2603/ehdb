@@ -5,7 +5,7 @@ export default function Timestamp(props: { time: string }) {
     const date = new Date(parseInt(time) * 1000);
     return (
         <span>
-            {date.getFullYear()}-{formatNumber(date.getMonth())}-{formatNumber(date.getDay())} {formatNumber(date.getHours())}:{formatNumber(date.getMinutes())}
+            {date.getFullYear()}-{formatNumber(date.getMonth() + 1)}-{formatNumber(date.getDate())} {formatNumber(date.getHours())}:{formatNumber(date.getMinutes())}
         </span>
     )
 }
